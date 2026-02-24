@@ -1,0 +1,53 @@
+{
+  "team": [
+    {
+      "id": "51fb",
+      "numero": 3,
+      "name": "venusaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "type": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "id": "9fb2",
+      "numero": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "type": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "id": "6055",
+      "numero": 7,
+      "name": "squirtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "type": [
+        "water"
+      ]
+    },
+    {
+      "id": "dfe3",
+      "numero": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+      "type": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "id": "c193",
+      "numero": 2,
+      "name": "ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "type": [
+        "grass",
+        "poison"
+      ]
+    }
+  ]
+}
