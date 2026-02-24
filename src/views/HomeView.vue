@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Welcome to the Home Page 2026</h1>
+    <h1>Welcome to the Home Page</h1>
     <button @click="goToPokedex">Voir les Pokémons</button>
   </div>
 </template>
